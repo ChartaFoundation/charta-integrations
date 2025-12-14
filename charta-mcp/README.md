@@ -1,5 +1,7 @@
 # Charta MCP Integration
 
+![CI](https://github.com/ChartaFoundation/charta-mono/workflows/CI/badge.svg)
+
 Model Context Protocol (MCP) integration layer for Charta.
 
 ## Components
